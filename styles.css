@@ -17,3 +17,32 @@ p {
 strong {
     color: purple;
 }
+
+.header-section {
+    background-color: purple;
+    color: purple;
+}
+
+.flex-container {
+    display: flexbox;
+    list-style: none;
+}
+
+.description-section {
+    background-color: rgb(12, 1, 12);
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.narrow-container {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+}
+
